@@ -1,5 +1,7 @@
-# Veil [veɪl] — Modular Z Shell Configuration System
+# Veil [veɪl] — Modular Zsh (Z Shell) Configuration System
 
-### Takes full control of zsh configuration through logical modules
+### Gives you full control via logical modules. No magic, just clarity.
 
 ---
+
+TBA
